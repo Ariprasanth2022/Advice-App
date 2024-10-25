@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&family=Kalam:wght@300;400;700&display=swap');
+
+*{
+    font-family: "Kalam", cursive;
+}
+
+body{
+    background-color: #fc427b;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div{
+    color: white;
+    text-align: center;
+}
+
+div h3{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+div button{
+    border: none;
+    font-size: 18px;
+    background-color: #182c61;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
